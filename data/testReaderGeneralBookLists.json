@@ -1,0 +1,33 @@
+{
+  "favoriteBooks": {
+    "name": "My Book list application",
+    "booklists": [
+      {
+        "year": 2002,
+        "author": "adele2",
+        "genre": "bye",
+        "rating": 10,
+        "title": "bye"
+      }
+    ]
+  },
+  "readBooks": {
+    "name": "My Book list application",
+    "booklists": [
+      {
+        "year": 2001,
+        "author": "adele",
+        "genre": "hello",
+        "rating": 10,
+        "title": "hello"
+      },
+      {
+        "year": 2002,
+        "author": "adele2",
+        "genre": "bye",
+        "rating": 10,
+        "title": "bye"
+      }
+    ]
+  }
+}
